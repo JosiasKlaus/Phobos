@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Phobos</string>
+    <string name="error_video_duration">The duration of the video you selected is longer then 60 seconds!</string>
+    <string name="error_snap_media_creation">An error occurred while trying to transform your file for use in Snapchat!</string>
+    <string name="main_activity_title">Phobos</string>
+    <string name="main_activity_subtitle">[ˈfoʊbɒs] (Φόβος Phóbos)</string>
+    <string name="main_activity_description">Phobos (/ˈfoʊbɒs/; systematic designation: Mars I) is the innermost and larger of the two natural satellites of Mars, the other being Deimos. The two moons were discovered in 1877 by American astronomer Asaph Hall. It is named after Phobos, the Greek god of fear and panic, who is the son of Ares (Mars) and twin brother of Deimos.</string>
+    <string name="main_activity_explanation">While Phobos might me the innermost and larger moon of Mars, it\'s also this projects codename. In case of this application Phobos is a small tool designed to send your photos and videos through Snapchat while making it look like they were taken in the Snapchat app itself instead of picked from your gallery / memories. It achieves this by using Snapchat\'s Creative Kit SDK to import the photos / videos into Snapchat\'s normal pre-send preview &amp; edit interface.</string>
+    <string name="main_activity_usage_title">Usage:</string>
+    <string name="main_activity_usage_description">In order to use this application you need to have Snapchat installed and be logged into your Snapchat account. To send a photo or video simply press on the gallery button in the bottom right of this screen and select whatever photo or video you want to open in Snapchat. In Snapchat you can use the integrated editor just like would with photos / videos taken in the app. Enjoy ^^</string>
+    <string name="main_activity_button_content_description">Open media picker</string>
+</resources>
